@@ -9,7 +9,7 @@ Dataset:
 - Source: Kaggle
 - Number of students: 2392
 - Features: demographic details, study habits, parental involvement, extracurricular activities, and academic performance
-- Target variable: Grade classification
+- Target variable: Grade Class
 
   
 Methodology:
